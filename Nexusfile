@@ -28,7 +28,7 @@ pipeline {
                     ],
                     credentialsId: 'devops',
                     groupId: 'com.boxfuse.samples',
-                    nexusUrl: '65.2.171.135:8081',
+                    nexusUrl: '54.235.9.153:8081',
                     nexusVersion: 'nexus3',
                     protocol: 'http',
                     repository: 'sample-releases-upload',
