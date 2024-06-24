@@ -6,7 +6,7 @@
     <packaging>war</packaging>
     <version>9.1</version>
     <name>hello</name>
-    <url>https://github.com/boxfuse/boxfuse-sample-java-war-hello</url>
+    <url>https://github.com/SunkeRakesh/boxfuse-sample-java-war-hello.git</url>
          
          
          <properties>
